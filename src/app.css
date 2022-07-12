@@ -46,6 +46,19 @@ body {
   font-weight: bold;
 }
 
+.projects {
+  width: 100%;
+}
+
+.project {
+  width: 100%;
+}
+
+.project-img {
+  height: 100px;
+  width: 100px;
+}
+
 .bottom-bar {
   position: fixed;
   bottom: 0;
