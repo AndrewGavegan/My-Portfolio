@@ -2,9 +2,11 @@ import React from 'react';
 
 function Resume() {
     return (
-        <button>
-            Resume
-        </button>
+        <div className="Resume">
+            <button>
+                Resume
+            </button>
+        </div>
     )
 }
 

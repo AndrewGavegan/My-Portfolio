@@ -1,11 +1,13 @@
 import React from 'react';
 
 function Contact() {
-    return (
-        <form>
+  return (
+    <div className="Contact">
+      <form>
 
-        </form>
-    );
+      </form>
+    </div>
+  );
 }
 
 export default Contact;

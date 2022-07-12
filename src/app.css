@@ -65,6 +65,7 @@ body {
 }
 
 .about-me {
+  width: 100%;
   display: grid;
   grid-template-columns: 22vw 68vw;
   margin-top: 10vh;
@@ -77,6 +78,14 @@ body {
 
 .about-me-text {
   padding-left: 8vw;
+}
+
+.Resume {
+  width: 100%;
+}
+
+.Contact {
+  width: 100%;
 }
 
 .bottom-bar {
