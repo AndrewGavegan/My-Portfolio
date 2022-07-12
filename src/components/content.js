@@ -1,6 +1,6 @@
 import React from 'react';
-import Header from './header';
-import Projects from './projects';
+import Header from './pages/header';
+import Projects from './pages/projects';
 
 
 
