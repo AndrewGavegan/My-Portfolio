@@ -1,6 +1,7 @@
 import React from 'react';
 import Header from './pages/header';
 import Projects from './pages/projects';
+import AboutMe from './pages/about-me';
 
 
 
@@ -9,6 +10,7 @@ function Content() {
         <div className="Content">
             <Header />
             <Projects />
+            <AboutMe />
         </div>
     );
 }
