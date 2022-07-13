@@ -41,6 +41,8 @@ body {
   align-items: left;
   margin-top: 40px;
   margin-bottom: 40px;
+  height: 90vh;
+  width: 90vw;
 }
 
 .Header {
@@ -67,7 +69,7 @@ body {
 .about-me {
   width: 100%;
   display: grid;
-  grid-template-columns: 22vw 68vw;
+  grid-template-columns: 22vw 58vw;
   margin-top: 10vh;
 }
 
