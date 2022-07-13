@@ -6,7 +6,7 @@ function Contact() {
   const [user, setUser] = useState('');
   const [email, setEmail] = useState('');
   const [message, setMessage] = useState('');
-  const [error, setError] = useState('');
+  const [hasError, setError] = useState('');
 
   // pasing in state change arguements and running if statements agaisnt each input field to set the answer as the value inside the field //
   const handleChange = (e) => {
@@ -63,7 +63,13 @@ function Contact() {
         </div>
         <button onClick={handleSubmit} type="submit" className="btn btn-primary">Submit</button>
       </form>
+
+      {hasError && (<div>
+        <h4 className="throwError">{hasError}</h4>
+      </div>)}
+
     </div>
+
   );
 }
 
