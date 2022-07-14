@@ -13,12 +13,14 @@ body {
   font-size: 24px;
   margin-left: 10px;
   cursor: pointer;
+  color: black;
 }
 
-.fa-browser {
+.fa-globe {
   font-size: 24px;
   margin-left: 10px;
   cursor: pointer;
+  color: black;
 }
 
 .Portfolio {

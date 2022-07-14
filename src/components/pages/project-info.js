@@ -1,5 +1,13 @@
 import React from 'react';
 import Projects from './projects';
+import img1 from '../../images/popcornable-screenshot.JPG';
+import img2 from '../../images/technotizing-screenshot.JPG';
+import img3 from '../../images/holy-spiritz-screenshot.JPG';
+import img4 from '../../images/note-taker-screenshot.PNG';
+import img5 from '../../images/social-network-screenshot.png';
+import img6 from '../../images/e-commerce-screenshot.png';
+
+
 
 function ProjectInfo() {
   const info = [
@@ -7,37 +15,37 @@ function ProjectInfo() {
       title: 'Popcornable',
       github: 'https://github.com/AndrewGavegan/Popcornable',
       deployment: 'https://popcornable.herokuapp.com/',
-      img: '../../images/popcornable-screenshot.JPG'
+      img: img1
     },
     {
       title: 'Technotizing',
       github: 'https://github.com/AndrewGavegan/Technotizing',
       deployment: 'https://technotizing.herokuapp.com/',
-      img: '../../images/technotizing-screenshot.JPG'
+      img: img2
     },
     {
       title: 'Holy Spiritz',
       github: 'https://github.com/JemimaSiddiqui/Holy-Spiritz',
       deployment: 'https://jemimasiddiqui.github.io/Project_1_Group-B/',
-      img: '../../images/holy-spiritz-screenshot.JPG'
+      img: img3
     },
     {
       title: 'ExpressJS Note Taker',
       github: 'https://github.com/AndrewGavegan/Express.JS-Note-Application',
       deployment: 'https://andrew-gavegan-note-taker.herokuapp.com/',
-      img: '../../images/note-taker-screenshot.PNG'
+      img: img4
     },
     {
       title: 'Social Network Back End',
       github: 'https://github.com/AndrewGavegan/SocialNetworkAPI-Week18',
       deployment: 'https://github.com/AndrewGavegan/SocialNetworkAPI-Week18',
-      img: '../../images/social-network-screenshot.png'
+      img: img5
     },
     {
       title: 'E-Commerce Back End',
       github: 'https://github.com/AndrewGavegan/E-Commerce-Back-End-Application',
       deployment: 'https://github.com/AndrewGavegan/E-Commerce-Back-End-Application',
-      img: '../../images/e-commerce-screenshot.png'
+      img: img6
     },
   ]
 
