@@ -12,10 +12,16 @@ function Content() {
   const [currentPage, setCurrentPage] = useState('Home');
 
   const renderPage = () => {
-    if (currentPage === 'AboutMe') return <AboutMe />
-    if (currentPage === 'Projects') return <Projects />
-    if (currentPage === 'Contact') return <Contact />
-    if (currentPage === 'Resume') return <Resume />;
+
+    if (currentPage === 'Projects') {
+      return <Projects />
+    } else if (currentPage === 'Contact') {
+      return <Contact />
+    } else if (currentPage === 'Resume') {
+      return <Resume />
+    } else {
+      return <AboutMe />
+    }
   };
 
   const handlePageChange = (page) => setCurrentPage(page);
