@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/My-Portfolio/static/css/main.397a708a.chunk.css",
+    "main.css": "/My-Portfolio/static/css/main.df87eef8.chunk.css",
     "main.js": "/My-Portfolio/static/js/main.5b3b836e.chunk.js",
     "main.js.map": "/My-Portfolio/static/js/main.5b3b836e.chunk.js.map",
     "runtime-main.js": "/My-Portfolio/static/js/runtime-main.932aa789.js",
@@ -10,7 +10,7 @@
     "static/js/2.a9041cd1.chunk.js.map": "/My-Portfolio/static/js/2.a9041cd1.chunk.js.map",
     "index.html": "/My-Portfolio/index.html",
     "static/css/2.f24994bd.chunk.css.map": "/My-Portfolio/static/css/2.f24994bd.chunk.css.map",
-    "static/css/main.397a708a.chunk.css.map": "/My-Portfolio/static/css/main.397a708a.chunk.css.map",
+    "static/css/main.df87eef8.chunk.css.map": "/My-Portfolio/static/css/main.df87eef8.chunk.css.map",
     "static/js/2.a9041cd1.chunk.js.LICENSE.txt": "/My-Portfolio/static/js/2.a9041cd1.chunk.js.LICENSE.txt",
     "static/media/e-commerce-screenshot.cbfcecd7.png": "/My-Portfolio/static/media/e-commerce-screenshot.cbfcecd7.png",
     "static/media/bootstrap.min.css": "/My-Portfolio/static/media/glyphicons-halflings-regular.be810be3.woff2",
@@ -25,7 +25,7 @@
     "static/js/runtime-main.932aa789.js",
     "static/css/2.f24994bd.chunk.css",
     "static/js/2.a9041cd1.chunk.js",
-    "static/css/main.397a708a.chunk.css",
+    "static/css/main.df87eef8.chunk.css",
     "static/js/main.5b3b836e.chunk.js"
   ]
 }
