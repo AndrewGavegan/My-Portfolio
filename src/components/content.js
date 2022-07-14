@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import Navigation from './navigation';
 import Header from './pages/header';
-import Projects from './pages/projects';
+import ProjectInfo from './pages/project-info';
 import AboutMe from './pages/about-me';
 import Contact from './pages/contact';
 import Resume from './pages/resume'
@@ -13,8 +13,8 @@ function Content() {
 
   const renderPage = () => {
 
-    if (currentPage === 'Projects') {
-      return <Projects />
+    if (currentPage === 'ProjectInfo') {
+      return <ProjectInfo />
     } else if (currentPage === 'Contact') {
       return <Contact />
     } else if (currentPage === 'Resume') {

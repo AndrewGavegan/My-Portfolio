@@ -11,6 +11,14 @@ body {
 
 .fa-github {
   font-size: 24px;
+  margin-left: 10px;
+  cursor: pointer;
+}
+
+.fa-browser {
+  font-size: 24px;
+  margin-left: 10px;
+  cursor: pointer;
 }
 
 .Portfolio {
