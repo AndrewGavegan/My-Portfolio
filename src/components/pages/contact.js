@@ -13,7 +13,7 @@ function Contact() {
     const { target } = e;
     const type = target.name;
     const value = target.value;
-    if (type === 'name') {
+    if (type === 'user') {
       setUser(value);
     } else if (type === 'email') {
       setEmail(value);
@@ -51,15 +51,15 @@ function Contact() {
       <form id="form">
         <div className="form-group">
           <label for="userInput">Name</label>
-          <input value={user} onChange={handleChange} type="user" className="form-control" id="userInput" placeholder="Please enter your name" />
+          <input value={user} onChange={handleChange} name="user" type="text" className="form-control" id="userInput" placeholder="Please enter your name" />
         </div>
         <div className="form-group">
           <label for="emailInput">Email address</label>
-          <input value={email} onChange={handleChange} type="email" className="form-control" id="emailInput" placeholder="Please enter an email address" />
+          <input value={email} onChange={handleChange} name="email" type="email" className="form-control" id="emailInput" placeholder="Please enter an email address" />
         </div>
         <div className="form-group">
           <label for="messageInput">Message</label>
-          <textarea value={message} onChange={handleChange} className="form-control" id="messageInput" rows="3"></textarea>
+          <input value={message} onChange={handleChange} name="message" type="text" className="form-control" id="messageInput" rows="3"></input>
         </div>
         <button onClick={handleSubmit} type="submit" className="btn btn-primary">Submit</button>
       </form>

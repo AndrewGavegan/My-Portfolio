@@ -36,13 +36,13 @@ function ProjectInfo() {
       img: img4
     },
     {
-      title: 'Social Network Back End',
+      title: 'Social Network API',
       github: 'https://github.com/AndrewGavegan/SocialNetworkAPI-Week18',
       deployment: 'https://github.com/AndrewGavegan/SocialNetworkAPI-Week18',
       img: img5
     },
     {
-      title: 'E-Commerce Back End',
+      title: 'E-Commerce API',
       github: 'https://github.com/AndrewGavegan/E-Commerce-Back-End-Application',
       deployment: 'https://github.com/AndrewGavegan/E-Commerce-Back-End-Application',
       img: img6

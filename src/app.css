@@ -16,11 +16,19 @@ body {
   color: black;
 }
 
+.fa-github:hover {
+  color: blue
+}
+
 .fa-globe {
   font-size: 24px;
   margin-left: 10px;
   cursor: pointer;
   color: black;
+}
+
+.fa-globe:hover {
+  color: blue
 }
 
 .Portfolio {
@@ -54,8 +62,8 @@ body {
   justify-content: flex-start;
   align-items: left;
   margin-top: 40px;
-  margin-bottom: 40px;
-  height: 90vh;
+  margin-bottom: 90px;
+  height: 100vh;
   width: 90vw;
 }
 
