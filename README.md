@@ -20,7 +20,7 @@ Packages that are used in this application are `react`, `react-bootstrap`, `reac
 
 ---
 ## Deployment
-Check out technotizing at `https://andrewgavegan.github.io/My-Portfolio/`!
+Check out my react portfolio at https://andrewgavegan.github.io/My-Portfolio/!
 
 ---
 ## Credits 
