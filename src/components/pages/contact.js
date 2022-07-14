@@ -38,9 +38,11 @@ function Contact() {
       return;
     }
 
+
     setUser('');
     setEmail('');
     setMessage('');
+    setError('Thanks for getting in contact!')
   }
 
 

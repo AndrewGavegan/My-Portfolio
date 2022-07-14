@@ -9,6 +9,10 @@ body {
   background-color: lightgray;
 }
 
+li {
+  list-style: none;
+}
+
 .fa-github {
   font-size: 24px;
   margin-left: 10px;
@@ -106,6 +110,8 @@ body {
 
 .Resume {
   width: 100%;
+  display: grid;
+  grid-template-columns: 40vw 40vw;
 }
 
 .Contact {
