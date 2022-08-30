@@ -1,9 +1,10 @@
 import React from 'react';
+import resumePDF from '../../documents/Andrew-Gavegan-Resume.pdf'
 
 function Resume() {
   return (
     <div className="Resume">
-      <h4 className="resume-link">Downloadable resume <a target="_blank" rel="noreferrer" href="https://docs.google.com/document/d/1toqHQqWV1bprxlVJQ00FDcdrW9z9MEUSLFbosxzUGjo/edit?usp=sharing" >here.</a></h4>
+      <h4 className="resume-link">Downloadable resume <a target="_blank" rel="noreferrer" href={resumePDF} >here.</a></h4>
       <div classname="resume-text">
         <p><h5>Front-End Technologies</h5>
           <ul>
