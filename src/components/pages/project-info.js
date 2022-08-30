@@ -24,7 +24,7 @@ function ProjectInfo() {
       img: img2
     },
     {
-      title: 'Tr&auml;na',
+      title: 'Trana',
       github: 'https://github.com/AndrewGavegan/trana',
       deployment: 'https://trana-application.herokuapp.com/',
       img: img3
