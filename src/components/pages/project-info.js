@@ -24,9 +24,9 @@ function ProjectInfo() {
       img: img2
     },
     {
-      title: 'Trana',
-      github: 'https://github.com/JemimaSiddiqui/Holy-Spiritz',
-      deployment: 'https://jemimasiddiqui.github.io/Project_1_Group-B/',
+      title: 'Tr&auml;na',
+      github: 'https://github.com/AndrewGavegan/trana',
+      deployment: 'https://trana-application.herokuapp.com/',
       img: img3
     },
     {
