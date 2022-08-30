@@ -13,11 +13,9 @@ function AboutMe() {
         of lightbulb moments that get things working has me hooked to coding like nothing else.
         <br />
         <br />
-        <h4>What technical skills do I have?</h4> Comprehensive knowledge of HTML5, CSS and JavaScript. Studied frameworks or
-        libraries include bootstrap and jQuery. Comfortable
-        using and implementing third party and server-side API’s. Skills being learnt in the next four
-        months include node.JS, express.JS,
-        reactJS, SQL MongoDB and stateful programming.</div>
+        <h4>What technical skills do I have?</h4> Comprehensive knowledge of HTML5, CSS and JavaScript.Confident
+        using and implementing third party and server-side API’s. More specific technologies that I love using include
+        reactJS for the front end and nodeJS, expressJS, SQL, MongoDB and Mongoose for the back end.</div>
     </div>
   );
 }

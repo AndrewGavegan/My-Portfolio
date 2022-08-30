@@ -2,7 +2,7 @@ import React from 'react';
 import Projects from './projects';
 import img1 from '../../images/popcornable-screenshot.JPG';
 import img2 from '../../images/technotizing-screenshot.JPG';
-import img3 from '../../images/holy-spiritz-screenshot.JPG';
+import img3 from '../../images/Capture1.PNG';
 import img4 from '../../images/note-taker-screenshot.PNG';
 import img5 from '../../images/social-network-screenshot.png';
 import img6 from '../../images/e-commerce-screenshot.png';
@@ -24,7 +24,7 @@ function ProjectInfo() {
       img: img2
     },
     {
-      title: 'Holy Spiritz',
+      title: 'Trana',
       github: 'https://github.com/JemimaSiddiqui/Holy-Spiritz',
       deployment: 'https://jemimasiddiqui.github.io/Project_1_Group-B/',
       img: img3
